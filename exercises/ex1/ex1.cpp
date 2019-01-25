@@ -11,6 +11,7 @@ int main()
     printItem("a happy day");
     printItem("Oh yes");
     printItem("what a happy day");
+    return 0;
 }
 void createSpace()
 {

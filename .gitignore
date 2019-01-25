@@ -1,4 +1,10 @@
+
 ** *.out
 *.out
 ** *.xml
 *.xml
+.idea/
+.idea
+** /.idea
+** .idea/
+** .idea
